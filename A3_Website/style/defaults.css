@@ -1,0 +1,31 @@
+body{
+
+    margin: 0px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: "Montserrat", sans-serif;
+    
+    -ms-overflow-style: none;
+    scrollbar-width: none; 
+}
+
+
+
+:root {
+    --accent: #29d5ae;
+    --primary: #0B2435;
+    --white: #fff;
+    --secondary: #29ABE2;
+    --secondary-dark: #257ab4;
+
+    --accent-rgb: 41, 214, 174;
+    --primary-rgb: 10, 39, 56;
+    --white-rgb: 255, 255, 255;
+    --secondary-rgb: 40, 170, 226;
+
+}
+
+
+::-webkit-scrollbar {
+    display: none;
+}
+

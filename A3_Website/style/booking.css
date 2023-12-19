@@ -1,0 +1,48 @@
+.title {
+    /* text-align: center; */
+    padding-left: 120px;
+    font-size: 4rem;
+    padding-top: 60px;
+    color: var(--primary);
+}
+
+.booking-form-container {
+    color: var(--white);
+    background: var(--secondary);
+    height: 800px;
+    width: 80%;
+    margin-left: 3.5%;
+    padding-top: 80px;
+    padding-left: 80px;
+    font-size: 1.5rem;
+    
+}
+
+.input {
+    display: block;
+    margin-bottom: 30px;
+    width: 80%;
+    min-height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    color: var(--primary);
+    outline: none;
+
+    font-size: 1.25rem;
+}
+
+.form-container form label {
+    margin-bottom: 100px;
+}
+
+
+.submit {
+    background: var(--white);
+    color: var(--primary);
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    padding: 4px 8px;
+}
